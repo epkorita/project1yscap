@@ -1,1 +1,0 @@
-nyt_api = "5760b27be9c84d2b9bd251ff1670d69e"
