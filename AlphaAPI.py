@@ -1,1 +1,0 @@
-alpha_api = "UGOD494YLQYW46RB"
